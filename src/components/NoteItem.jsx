@@ -5,7 +5,7 @@ import parser from "html-react-parser";
 import LocaleContext from "../context/LocaleContext";
 
 function NoteItem({ note }) {
-    const[ locale ] = useContext(LocaleContext);
+    const [ locale ] = useContext(LocaleContext);
 
     return (
         <article className="note-item">
