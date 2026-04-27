@@ -28,6 +28,3 @@ https://dicoding-personal-notes-app.netlify.app/
 <img width="960" height="474" alt="note detail" src="https://github.com/user-attachments/assets/3f4b7480-deba-465d-8d2b-46bb148dbf1b" />
 <img width="960" height="474" alt="language translation" src="https://github.com/user-attachments/assets/4cb8f108-c0b5-4a3e-9ee7-e5d08d5d1573" />
 <img width="960" height="474" alt="dark mode" src="https://github.com/user-attachments/assets/bf628d28-45e0-4d9e-9f38-1d6768dc2e6a" />
-
-## Certificate Link
-https://www.dicoding.com/certificates/07Z674G2JPQR
